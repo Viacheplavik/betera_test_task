@@ -1,0 +1,6 @@
+postgres:
+  user: postgres
+  password: postgres # will be replaced on real DB
+  host: 127.0.0.1
+  port: 5432
+  database_name: postgres
